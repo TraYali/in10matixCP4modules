@@ -5,7 +5,7 @@ module;
 export module person;
 
 export class Person {
-private:
+protected:
   std::string name;
 
 public:
