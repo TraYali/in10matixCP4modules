@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\car.obj",
+            "outputs": [
+                "x64\\Debug\\car.ixx.ifc.dt.module.json",
+                "x64\\Debug\\car.ixx.ifc.dt.d.json",
+                "x64\\Debug\\car.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "car",
+                    "source-path": "c:\\users\\pan\\source\\repos\\consoleapplication\\consoleapplication\\car.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "car:engine"
+                },
+                {
+                    "logical-name": "car:conversions"
+                },
+                {
+                    "logical-name": "car:constants"
+                }
+            ]
+        }
+    ]
+}

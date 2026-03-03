@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\goblin.obj",
+            "outputs": [
+                "x64\\Debug\\goblin.ixx.ifc.dt.module.json",
+                "x64\\Debug\\goblin.ixx.ifc.dt.d.json",
+                "x64\\Debug\\heroes.goblin.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "heroes.goblin",
+                    "source-path": "c:\\users\\pan\\source\\repos\\consoleapplication\\consoleapplication\\goblin.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "heroes"
+                }
+            ]
+        }
+    ]
+}

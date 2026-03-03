@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\car_engine.obj",
+            "outputs": [
+                "x64\\Debug\\car_engine.ixx.ifc.dt.module.json",
+                "x64\\Debug\\car_engine.ixx.ifc.dt.d.json",
+                "x64\\Debug\\car-engine.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "car:engine",
+                    "source-path": "c:\\users\\pan\\source\\repos\\consoleapplication\\consoleapplication\\car_engine.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

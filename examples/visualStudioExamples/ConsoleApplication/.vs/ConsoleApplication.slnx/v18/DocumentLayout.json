@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|solutionrelative:ConsoleApplication\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\person.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|solutionrelative:ConsoleApplication\\person.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\elf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|solutionrelative:ConsoleApplication\\elf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\elf.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|solutionrelative:ConsoleApplication\\elf.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|solutionrelative:ConsoleApplication\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\heroes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2A3A4D8-B200-498C-9EC1-748C8B523FAD}|ConsoleApplication\\ConsoleApplication.vcxproj|solutionrelative:ConsoleApplication\\heroes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "elf.cpp",
+              "DocumentMoniker": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\elf.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication\\elf.cpp",
+              "ToolTip": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\elf.cpp",
+              "RelativeToolTip": "ConsoleApplication\\elf.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T13:31:02.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "person.ixx",
+              "DocumentMoniker": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\person.ixx",
+              "RelativeDocumentMoniker": "ConsoleApplication\\person.ixx",
+              "ToolTip": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\person.ixx",
+              "RelativeToolTip": "ConsoleApplication\\person.ixx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2026-03-03T13:30:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "person.cpp",
+              "DocumentMoniker": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\person.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication\\person.cpp",
+              "ToolTip": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\person.cpp",
+              "RelativeToolTip": "ConsoleApplication\\person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T13:30:28.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "elf.ixx",
+              "DocumentMoniker": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\elf.ixx",
+              "RelativeDocumentMoniker": "ConsoleApplication\\elf.ixx",
+              "ToolTip": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\elf.ixx",
+              "RelativeToolTip": "ConsoleApplication\\elf.ixx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2026-03-03T13:30:05.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\main.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication\\main.cpp",
+              "ToolTip": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\main.cpp",
+              "RelativeToolTip": "ConsoleApplication\\main.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T13:29:41.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "heroes.cpp",
+              "DocumentMoniker": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\heroes.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication\\heroes.cpp",
+              "ToolTip": "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\heroes.cpp",
+              "RelativeToolTip": "ConsoleApplication\\heroes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T13:27:05.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

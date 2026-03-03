@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\car_conversions.obj",
+            "outputs": [
+                "x64\\Debug\\car_conversions.ixx.ifc.dt.module.json",
+                "x64\\Debug\\car_conversions.ixx.ifc.dt.d.json",
+                "x64\\Debug\\car-conversions.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "car:conversions",
+                    "source-path": "c:\\users\\pan\\source\\repos\\consoleapplication\\consoleapplication\\car_conversions.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

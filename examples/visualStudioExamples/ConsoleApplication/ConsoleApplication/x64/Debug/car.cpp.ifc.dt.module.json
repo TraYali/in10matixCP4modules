@@ -1,0 +1,27 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\car.obj",
+            "outputs": [
+                "x64\\Debug\\car.cpp.ifc.dt.module.json",
+                "x64\\Debug\\car.cpp.ifc.dt.d.json"
+            ],
+            "requires": [
+                {
+                    "logical-name": "car"
+                },
+                {
+                    "logical-name": "car:engine"
+                },
+                {
+                    "logical-name": "car:conversions"
+                },
+                {
+                    "logical-name": "car:constants"
+                }
+            ]
+        }
+    ]
+}

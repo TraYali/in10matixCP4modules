@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\elf.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Pan\\source\\repos\\ConsoleApplication\\ConsoleApplication\\x64\\Debug\\elf.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "heroes.elf",
+                    "source-path": "c:\\users\\pan\\source\\repos\\consoleapplication\\consoleapplication\\elf.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "heroes"
+                }
+            ]
+        }
+    ]
+}

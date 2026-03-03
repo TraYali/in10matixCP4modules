@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pan\\source\\repos\\consoleapplication\\consoleapplication\\car_constants.ixx",
+        "ProvidedModule": "car:constants",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

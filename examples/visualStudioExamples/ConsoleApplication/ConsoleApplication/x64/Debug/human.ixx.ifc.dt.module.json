@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\human.obj",
+            "outputs": [
+                "x64\\Debug\\human.ixx.ifc.dt.module.json",
+                "x64\\Debug\\human.ixx.ifc.dt.d.json",
+                "x64\\Debug\\heroes.human.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "heroes.human",
+                    "source-path": "c:\\users\\pan\\source\\repos\\consoleapplication\\consoleapplication\\human.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "heroes"
+                }
+            ]
+        }
+    ]
+}

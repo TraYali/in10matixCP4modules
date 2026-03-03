@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\car_constants.obj",
+            "outputs": [
+                "x64\\Debug\\car_constants.ixx.ifc.dt.module.json",
+                "x64\\Debug\\car_constants.ixx.ifc.dt.d.json",
+                "x64\\Debug\\car-constants.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "car:constants",
+                    "source-path": "c:\\users\\pan\\source\\repos\\consoleapplication\\consoleapplication\\car_constants.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
