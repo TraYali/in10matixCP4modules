@@ -49,7 +49,7 @@ Test the math module in the main. Try to import only one submodule instead of th
 
 # Task 4 - partitioning:
 Create a module called `calc`.
-Module `calc` should have `calc::constants` partition and `calc::functions` partition.
-`calc::constants` should have a function that returns the pi number.
-`calc::functions` should have functions that calculate area and circumference with a given radius parameter. Functions must use the pi number from `calc::constants`.
-The `calc::constants` must be hidden from the final user.
+Module `calc` should have `calc:constants` partition and `calc:functions` partition.
+`calc:constants` should have a function that returns the pi number.
+`calc:functions` should have functions that calculate area and circumference with a given radius parameter. Functions must use the pi number from `calc:constants`.
+The `calc:constants` must be hidden from the final user.

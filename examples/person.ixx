@@ -2,7 +2,7 @@ module;
 
 #include <string>
 
-export module Person;
+export module person;
 
 export class Person {
 private:

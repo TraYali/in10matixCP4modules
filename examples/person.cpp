@@ -2,7 +2,7 @@ module;
 
 #include <string>
 
-module Person;
+module person;
 
 Person::Person(const std::string &name) { this->name = name; }
 
