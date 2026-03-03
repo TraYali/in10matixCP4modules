@@ -1,6 +1,6 @@
-import Person;
+#include <iostream>
 
-import iostream;
+import Person;
 
 int main() {
     Person p{"Steve"};
