@@ -1,5 +1,7 @@
 Tasks for the laboratory classes on modules.
 
+The CMake files are provied as a possible starting point for compilation.
+
 Here are some usefull links:
 https://en.wikipedia.org/wiki/Modules_(C%2B%2B)
 https://en.cppreference.com/w/cpp/compiler_support/20.html
