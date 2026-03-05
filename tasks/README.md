@@ -2,7 +2,7 @@
 Create a module that implements `struct Point`.
 `Point` should have its own coordinates, constructor,
 accessors and methods for:
-printing the contents of the struct
+printing the contents of the struct,
 converting coordinates into the reflection on x axis, y axis and center point(0, 0)
 Import and test the `Point` module in main.
 
