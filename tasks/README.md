@@ -44,7 +44,7 @@ Create a module called `mat` (math) that is composed of `alg` (algebra) and `geo
 Algebra submodule should implement a function:
 `std::pair<double,double> findRoots(float a, float b, float c)` -> returns a pair of roots of a polynomial of type ax^2 + bx + c = 0, throws exception if roots were not found.
 Geometry submodule should implement functions:
-double findDist(float x1, float y1, float x2, float x2) -> returns distance between two points.
+double findDist(float x1, float y1, float x2, float y2) -> returns distance between two points.
 Test the math module in the main. Try to import only one submodule instead of the whole math.
 
 # Task 4 - partitioning:
